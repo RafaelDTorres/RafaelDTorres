@@ -50,7 +50,7 @@ Atuo na interseção entre **Engenharia de Software, Inteligência Artificial, C
 
 * **Stack:** `Python` `Flask` `SQLite` `SQLAlchemy` `WTForms` `Docker` `GitLab CI/CD` `pytest` `Bandit` `OWASP ZAP` `OWASP Dependency-Check` `Fail2Ban` `Prometheus` `Grafana`
 
-* **Documentação:** [PDF do Estudo de Caso](https://docs.google.com/document/d/17MyPSBESSQNlbtvcdL6sf_GlOoH5agBexZwJ9YHZGZI/edit?usp=sharing)
+* **Documentação:** [PDF do Estudo de Caso](https://drive.google.com/file/d/1LCtk66u4aWJMvpHzDF1IhnFYZDD1q1mK/view?usp=sharing)
 
 ---
 
